@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-06T21:06:56 IST" name="Default suite" finished-at="2024-02-06T21:07:36 IST" duration-ms="40336">
+    <groups>
+    </groups>
+    <test started-at="2024-02-06T21:06:56 IST" name="Default test" finished-at="2024-02-06T21:07:36 IST" duration-ms="40336">
+      <class name="testng.newTest">
+        <test-method is-config="true" signature="stepsToLaunch()[pri:0, instance:testng.newTest@25641d39]" started-at="2024-02-06T21:06:56 IST" name="stepsToLaunch" finished-at="2024-02-06T21:07:04 IST" duration-ms="8142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stepsToLaunch -->
+        <test-method signature="ClickOnMarketing()[pri:-2, instance:testng.newTest@25641d39]" started-at="2024-02-06T21:07:04 IST" name="ClickOnMarketing" finished-at="2024-02-06T21:07:07 IST" duration-ms="3223" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnMarketing -->
+        <test-method is-config="true" signature="stepsToLaunch()[pri:0, instance:testng.newTest@25641d39]" started-at="2024-02-06T21:07:07 IST" name="stepsToLaunch" finished-at="2024-02-06T21:07:16 IST" duration-ms="8565" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stepsToLaunch -->
+        <test-method signature="fillForm()[pri:-1, instance:testng.newTest@25641d39]" started-at="2024-02-06T21:07:16 IST" name="fillForm" finished-at="2024-02-06T21:07:36 IST" duration-ms="20360" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillForm -->
+      </class> <!-- testng.newTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
